@@ -1,0 +1,17 @@
+{
+  "name": "Dossiê Técnico — Recomposição Corporal",
+  "short_name": "Dossiê 10S",
+  "description": "Controle Farmacocinético (25 mg), Nutrição e Antropometria",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#13313D",
+  "theme_color": "#13313D",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
